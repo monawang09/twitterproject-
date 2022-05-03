@@ -1,7 +1,8 @@
 # API for Small Twitter  
 
-## Readme first
-* The intention of this project is to create a twitter project one a large scale of active users. 
+## ReadMe First
+* The intention of this project is to create a social media platform
+scaled to accomodate a large flow of active users. 
 
 
 ## Tweet 
@@ -19,7 +20,3 @@
 * Create_User: POST user/register
 * Follow: POST user/user:id/followed_user_id 
 * Unfollow: DELETE user/user:id/followed_user_id 
-
-
-## Note About Framework 
- RequestBody, RequestParam, PathVariable
