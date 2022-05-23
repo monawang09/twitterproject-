@@ -1,12 +1,11 @@
+
 # API for Small Twitter  
 
 ## ReadMe First
 * The intention of this project is to create a social media platform
-scaled to accomodate a large flow of active users. 
+scaled to accomodate a large flow of active users.
 
-
-## Tweet 
-
+## Tweet
 * Send Tweet POST: tweets/user:id/
 * Read_Twitter:  GET tweets/user:id/
 * Edit_Twitter: PUT user:id/
