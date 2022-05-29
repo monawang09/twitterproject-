@@ -5,6 +5,7 @@
 * The intention of this project is to create a social media platform
 scaled to accomodate a large flow of active users.
 
+
 ## Tweet
 * Send Tweet POST: tweets/user:id/
 * Read_Twitter:  GET tweets/user:id/
